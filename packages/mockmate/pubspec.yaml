@@ -1,6 +1,6 @@
 name: mockmate
 description: An advanced API mocking and testing toolkit for Dart and Flutter with network simulation, scenarios, request recording, and inspection.
-version: 0.1.2
+version: 0.1.3
 homepage: https://github.com/harmish66/mockmate
 repository: https://github.com/harmish66/mockmate
 issue_tracker: https://github.com/harmish66/mockmate/issues
