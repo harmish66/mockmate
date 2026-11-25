@@ -1,0 +1,13 @@
+name: basic_example
+description: Basic MockMate example showing route registration, responses, and scenario switching.
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  mockmate:
+    path: ../../packages/mockmate
+
+dev_dependencies:
+  lints: ^3.0.0

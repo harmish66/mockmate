@@ -1,0 +1,14 @@
+name: dio_example
+description: Demonstrating Dio integration with MockMate.
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  dio: ^5.4.0
+  mockmate:
+    path: ../../packages/mockmate
+
+dev_dependencies:
+  lints: ^3.0.0

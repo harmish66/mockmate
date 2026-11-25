@@ -1,0 +1,18 @@
+name: mockmate_flutter_example
+description: Example application demonstrating MockMate Flutter visual inspector.
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.16.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mockmate: ^0.1.0
+  mockmate_flutter:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

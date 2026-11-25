@@ -1,0 +1,14 @@
+name: http_example
+description: Demonstrating package:http integration with MockMate.
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^1.2.0
+  mockmate:
+    path: ../../packages/mockmate
+
+dev_dependencies:
+  lints: ^3.0.0

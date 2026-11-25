@@ -1,0 +1,20 @@
+name: ecommerce_example
+description: Complete Flutter Ecommerce example using MockMate for stateful APIs, network simulation, and visual inspection.
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.16.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mockmate:
+    path: ../../packages/mockmate
+  mockmate_flutter:
+    path: ../../packages/mockmate_flutter
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
