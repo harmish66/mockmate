@@ -1,9 +1,9 @@
 name: mockmate_cli
 description: Command-line developer tool for MockMate to validate routes, manage scenarios, and import OpenAPI specifications.
 version: 0.1.2
-homepage: https://github.com/harmishanaxistech-ship-it
-repository: https://github.com/harmishanaxistech-ship-it
-issue_tracker: https://github.com/harmishanaxistech-ship-it
+homepage: https://github.com/harmish66/mockmate
+repository: https://github.com/harmish66/mockmate
+issue_tracker: https://github.com/harmish66/mockmate/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'

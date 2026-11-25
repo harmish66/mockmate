@@ -1,9 +1,9 @@
 name: mockmate_flutter
 description: Developer inspection dashboard and visual debugging overlay for MockMate in Flutter applications.
 version: 0.1.2
-homepage: https://github.com/harmishanaxistech-ship-it
-repository: https://github.com/harmishanaxistech-ship-it
-issue_tracker: https://github.com/harmishanaxistech-ship-it
+homepage: https://github.com/harmish66/mockmate
+repository: https://github.com/harmish66/mockmate
+issue_tracker: https://github.com/harmish66/mockmate/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
